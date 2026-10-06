@@ -1,0 +1,2 @@
+My current user is samreen
+My current working directory /home/samreen/bash
